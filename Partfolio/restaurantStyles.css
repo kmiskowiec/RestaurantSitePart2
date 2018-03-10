@@ -1,0 +1,44 @@
+/* Common elements across all pages */
+h1 {
+line-height: 30px;
+color: #F23F45; /* Raw by  Pennington – colourlovers.com */
+top: 50%;
+				left: 50%;
+				margin: 20px 0 0 430px;
+				font: italic bold 50px/30px Georgia, serif;
+}
+hr {
+border-top: 3px double #A99890; /*Beyond the Decimal by smartalec – colourlovers.com */
+
+}
+footer {
+		text-align: center;
+		background-color: #fff;
+	border-top: 2px dashed #8c8b8b;	
+}
+
+
+
+}
+/* selected link */
+a:active {
+    color: yellow;
+}
+/* visited link */
+a:visited {
+    background-color: yellow;
+  border-color: hotpink;
+  color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+    font-weight:bold;
+}
+
+
+
+a:link {
+    text-decoration: none;
+}
+
